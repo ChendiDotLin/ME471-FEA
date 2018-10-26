@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4
+END
+StressAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/StressAtIntegrationPoints.dat
+END
+StrainAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/StrainAtCentroid.dat
+END
+VonMisesStressesAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/VonMisesStressesAtNodes.dat
+END
+StrainAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/StrainAtNodes.dat
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/KPP_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/EQNUM.dat
+END
+StrainAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/StrainAtIntegrationPoints.dat
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/PUR_Vector.dat
+END
+VonMisesAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/VonMisesAtIntegrationPoints.dat
+END
+PrincipalStressesAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/PrincipalStressesAtCentroid.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/KFF_Matrix.dat
+END
+PrincipalStressesAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/PrincipalStressesAtNodes.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/UF_Vector.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/UUR_Vector.dat
+END
+StressAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/StressAtCentroid.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/PP_Vector.dat
+END
+StressAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/StressAtNodes.dat
+END
+PrincipalStressesAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/PrincipalStressesAtIntegrationPoints.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/KPF_Matrix.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/KFP_Matrix.dat
+END
+Patch-1Element.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Example4/Patch-1Element.dat
+END

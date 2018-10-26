@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/PUR_Vector.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/KFF_Matrix.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/UF_Vector.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/UUR_Vector.dat
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/KPP_Matrix.dat
+END
+input.dat
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/input.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/PP_Vector.dat
+END
+Strain_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/Strain_Vector.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/KFP_Matrix.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/KPF_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/EQNUM.dat
+END
+Stress_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sp16-me471/!svn/ver/6409/clin92/04-FEA-Truss/Examples-For-Debugging/Matlab-Examples/Example3/Stress_Vector.dat
+END

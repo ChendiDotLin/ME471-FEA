@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sp16-me471/!svn/ver/1461/clin92/01-FEA-Spring/C-Code
+END
+SpringFEA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/1182/clin92/01-FEA-Spring/C-Code/SpringFEA.cpp
+END
+SpringFEA.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp16-me471/!svn/ver/1182/clin92/01-FEA-Spring/C-Code/SpringFEA.h
+END
+input.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp16-me471/!svn/ver/1461/clin92/01-FEA-Spring/C-Code/input.dat
+END
+PA1.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sp16-me471/!svn/ver/1182/clin92/01-FEA-Spring/C-Code/PA1.pdf
+END
+ReadInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/1182/clin92/01-FEA-Spring/C-Code/ReadInput.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sp16-me471/!svn/ver/1182/clin92/01-FEA-Spring/C-Code/Makefile
+END
+input-new.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/1182/clin92/01-FEA-Spring/C-Code/input-new.dat
+END
+PrintOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/1182/clin92/01-FEA-Spring/C-Code/PrintOutput.cpp
+END

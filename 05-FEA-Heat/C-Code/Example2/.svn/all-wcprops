@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/KPP_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/EQNUM.dat
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/PUR_Vector.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/KFF_Matrix.dat
+END
+FluxMagnitudeAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/FluxMagnitudeAtNodes.dat
+END
+FluxAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/FluxAtCentroid.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/UF_Vector.dat
+END
+FluxAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/FluxAtNodes.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/UUR_Vector.dat
+END
+Example4-4-Incropera.dat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/Example4-4-Incropera.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/PP_Vector.dat
+END
+Example4-4-Incropera-finer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/Example4-4-Incropera-finer.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/KPF_Matrix.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/KFP_Matrix.dat
+END
+FluxAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example2/FluxAtIntegrationPoints.dat
+END

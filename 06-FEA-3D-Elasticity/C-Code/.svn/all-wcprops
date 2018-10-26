@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code
+END
+MainFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/MainFile.cpp
+END
+EvaluateFieldGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/EvaluateFieldGradient.cpp
+END
+GetElementFluxVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/GetElementFluxVector.cpp
+END
+ReadInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/ReadInput.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/Makefile
+END
+PrintOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/8771/clin92/06-FEA-3D-Elasticity/C-Code/PrintOutput.cpp
+END

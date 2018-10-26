@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/PUR_Vector.dat
+END
+LShapeMesh.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/LShapeMesh.dat
+END
+FluxMagnitudeAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/FluxMagnitudeAtNodes.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/KFF_Matrix.dat
+END
+FluxAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/FluxAtCentroid.dat
+END
+FluxAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/FluxAtNodes.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/UF_Vector.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/UUR_Vector.dat
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/KPP_Matrix.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/PP_Vector.dat
+END
+FluxAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/FluxAtIntegrationPoints.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/KFP_Matrix.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/KPF_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example3/EQNUM.dat
+END

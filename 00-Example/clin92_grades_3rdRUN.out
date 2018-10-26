@@ -1,0 +1,27 @@
+3rd grading run at 00:01am Jan 30
+Matlab results
+EQ_NUM (1pt): Passed  
+KPP Matrix (1pt): Passed  
+KPF Matrix (1pt): Passed  
+KFF Matrix (1pt): Passed  
+KFP Matrix (1pt): Passed  
+UF Vector (1pt): Passed  
+PP Vector (1pt): Passed  
+PUR Vector (1pt): Passed  
+UUR Vector (2pts): Passed  
+~~~~~~~~~~~~~
+Total Points = 10
+
+C results
+EQ_NUM (1pt): Passed  
+KPP Matrix (1pt): failed  
+KPF Matrix (1pt): failed  
+KFF Matrix (1pt): failed  
+KFP Matrix (1pt): Passed  
+UF Vector (1pt): failed  
+PP Vector (1pt): failed  
+PUR Vector (1pt): Passed  
+UUR Vector (2pts): Passed  
+~~~~~~~~~~~~~
+Total Points = 5
+

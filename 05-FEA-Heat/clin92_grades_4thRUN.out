@@ -1,0 +1,30 @@
+PA5 heat transfer Project, 4th grading run at 00:00am April 7
+
+Matlab results
+KPP Matrix (1pt): Passed  
+KPF Matrix (1pt): Passed  
+KFF Matrix (1pt): Passed  
+KFP Matrix (1pt): Passed  
+PUR Vector (1pt): Passed  
+UUR Vector (1pts): Passed  
+Flux at Centroid (1pts): Passed  
+Flux at Nodes (1pts): Passed  
+Flux at IntegrationPoints (1pts): Passed  
+Flux Magnitude at Nodes (1pts): Passed  
+~~~~~~~~~~~~~
+Total Points = 10
+
+C results
+KPP Matrix (1pt): Missing  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+PUR Vector (1pts): Missing  
+UUR Vector (1pts): Missing  
+Flux at Centroid (1pt): Missing  
+Flux at Nodes (1pt): Missing  
+Flux at IntegrationPoints (1pt): Missing  
+Flux Magnitude at Nodes (1pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+

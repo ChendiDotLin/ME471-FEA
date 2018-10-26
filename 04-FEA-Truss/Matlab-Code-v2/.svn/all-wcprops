@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp16-me471/!svn/ver/7191/clin92/04-FEA-Truss/Matlab-Code-v2
+END
+MainFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp16-me471/!svn/ver/7191/clin92/04-FEA-Truss/Matlab-Code-v2/MainFile.m
+END
+Solve.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp16-me471/!svn/ver/7191/clin92/04-FEA-Truss/Matlab-Code-v2/Solve.m
+END
+ReadInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sp16-me471/!svn/ver/6407/clin92/04-FEA-Truss/Matlab-Code-v2/ReadInput.m
+END
+Assemble.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp16-me471/!svn/ver/7191/clin92/04-FEA-Truss/Matlab-Code-v2/Assemble.m
+END
+PrintOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp16-me471/!svn/ver/6407/clin92/04-FEA-Truss/Matlab-Code-v2/PrintOutput.m
+END
+PlotTruss.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sp16-me471/!svn/ver/6407/clin92/04-FEA-Truss/Matlab-Code-v2/PlotTruss.m
+END
+Initialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sp16-me471/!svn/ver/7191/clin92/04-FEA-Truss/Matlab-Code-v2/Initialize.m
+END
+Calc.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/7191/clin92/04-FEA-Truss/Matlab-Code-v2/Calc.m
+END

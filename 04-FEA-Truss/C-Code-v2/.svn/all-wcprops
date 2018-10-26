@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sp16-me471/!svn/ver/6408/clin92/04-FEA-Truss/C-Code-v2
+END
+MainFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp16-me471/!svn/ver/6408/clin92/04-FEA-Truss/C-Code-v2/MainFile.cpp
+END
+MainFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp16-me471/!svn/ver/6408/clin92/04-FEA-Truss/C-Code-v2/MainFile.h
+END
+ReadInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/6408/clin92/04-FEA-Truss/C-Code-v2/ReadInput.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp16-me471/!svn/ver/6408/clin92/04-FEA-Truss/C-Code-v2/Makefile
+END
+PrintOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp16-me471/!svn/ver/6408/clin92/04-FEA-Truss/C-Code-v2/PrintOutput.cpp
+END

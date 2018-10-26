@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sp16-me471/!svn/ver/7916/clin92/05-FEA-Heat/Matlab-Code
+END
+PlotVectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/PlotVectors.m
+END
+MainFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/MainFile.m
+END
+inputExample10_4_QUAD.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/inputExample10_4_QUAD.dat
+END
+EvaluateFieldGradient.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/EvaluateFieldGradient.m
+END
+Solve.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/Solve.m
+END
+Quad2DShapeFunctions.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/Quad2DShapeFunctions.m
+END
+Assemble.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/Assemble.m
+END
+ReadInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/ReadInput.m
+END
+PlotFieldonMesh.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/PlotFieldonMesh.m
+END
+Gauss_Quad.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/Gauss_Quad.m
+END
+Shape_Funct.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp16-me471/!svn/ver/7916/clin92/05-FEA-Heat/Matlab-Code/Shape_Funct.m
+END
+inputhw7.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/inputhw7.dat
+END
+Initialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/Initialize.m
+END
+AssemblePrescribedTraction.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/AssemblePrescribedTraction.m
+END
+LShapeMesh.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/LShapeMesh.dat
+END
+ElementSurfaceTraction.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/ElementSurfaceTraction.m
+END
+Example4-4-Incropera.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4-4-Incropera.dat
+END
+AssembleGlobal.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/AssembleGlobal.m
+END
+ElementAssembleHeatTransfer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/ElementAssembleHeatTransfer.m
+END
+PrintOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/PrintOutput.m
+END
+GetElementHeatFluxVector.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/7915/clin92/05-FEA-Heat/Matlab-Code/GetElementHeatFluxVector.m
+END
+Example4-4-Incropera-finer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4-4-Incropera-finer.dat
+END
+input_Incropera_4_3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/input_Incropera_4_3.dat
+END
+ChimneyNew.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/ChimneyNew.dat
+END

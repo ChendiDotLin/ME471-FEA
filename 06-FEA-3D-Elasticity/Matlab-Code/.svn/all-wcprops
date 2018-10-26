@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp16-me471/!svn/ver/9160/clin92/06-FEA-3D-Elasticity/Matlab-Code
+END
+MainFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/9577/clin92/06-FEA-3D-Elasticity/Matlab-Code/MainFile.m
+END
+Solve.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sp16-me471/!svn/ver/9409/clin92/06-FEA-3D-Elasticity/Matlab-Code/Solve.m
+END
+EvaluateFieldGradient.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sp16-me471/!svn/ver/8689/clin92/06-FEA-3D-Elasticity/Matlab-Code/EvaluateFieldGradient.m
+END
+Quad2DShapeFunctions.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sp16-me471/!svn/ver/9409/clin92/06-FEA-3D-Elasticity/Matlab-Code/Quad2DShapeFunctions.m
+END
+Assemble.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/9574/clin92/06-FEA-3D-Elasticity/Matlab-Code/Assemble.m
+END
+ReadInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sp16-me471/!svn/ver/9409/clin92/06-FEA-3D-Elasticity/Matlab-Code/ReadInput.m
+END
+Gauss_Quad.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sp16-me471/!svn/ver/9409/clin92/06-FEA-3D-Elasticity/Matlab-Code/Gauss_Quad.m
+END
+PlotFieldonMesh.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/8689/clin92/06-FEA-3D-Elasticity/Matlab-Code/PlotFieldonMesh.m
+END
+Initialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sp16-me471/!svn/ver/9409/clin92/06-FEA-3D-Elasticity/Matlab-Code/Initialize.m
+END
+AssemblePrescribedTraction.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sp16-me471/!svn/ver/9495/clin92/06-FEA-3D-Elasticity/Matlab-Code/AssemblePrescribedTraction.m
+END
+ElementAssemble.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/9409/clin92/06-FEA-3D-Elasticity/Matlab-Code/ElementAssemble.m
+END
+ElementSurfaceTraction.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/9495/clin92/06-FEA-3D-Elasticity/Matlab-Code/ElementSurfaceTraction.m
+END
+GetElementFluxVector.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sp16-me471/!svn/ver/9495/clin92/06-FEA-3D-Elasticity/Matlab-Code/GetElementFluxVector.m
+END
+AssembleGlobal.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp16-me471/!svn/ver/9495/clin92/06-FEA-3D-Elasticity/Matlab-Code/AssembleGlobal.m
+END
+PlotDeformedConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sp16-me471/!svn/ver/8689/clin92/06-FEA-3D-Elasticity/Matlab-Code/PlotDeformedConfiguration.m
+END
+PrintOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp16-me471/!svn/ver/9160/clin92/06-FEA-3D-Elasticity/Matlab-Code/PrintOutput.m
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sp16-me471/!svn/ver/2706/clin92/02-FEA-1D/Matlab-Code
+END
+MainFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp16-me471/!svn/ver/2504/clin92/02-FEA-1D/Matlab-Code/MainFile.m
+END
+Module.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp16-me471/!svn/ver/2505/clin92/02-FEA-1D/Matlab-Code/Module.m
+END
+Solve.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sp16-me471/!svn/ver/2504/clin92/02-FEA-1D/Matlab-Code/Solve.m
+END
+input.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp16-me471/!svn/ver/1919/clin92/02-FEA-1D/Matlab-Code/input.dat
+END
+ReadInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp16-me471/!svn/ver/2706/clin92/02-FEA-1D/Matlab-Code/ReadInput.m
+END
+Assemble.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp16-me471/!svn/ver/2505/clin92/02-FEA-1D/Matlab-Code/Assemble.m
+END
+PrintOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp16-me471/!svn/ver/1919/clin92/02-FEA-1D/Matlab-Code/PrintOutput.m
+END
+PA2.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sp16-me471/!svn/ver/1919/clin92/02-FEA-1D/Matlab-Code/PA2.pdf
+END
+inte.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sp16-me471/!svn/ver/2504/clin92/02-FEA-1D/Matlab-Code/inte.m
+END
+Initialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/2504/clin92/02-FEA-1D/Matlab-Code/Initialize.m
+END

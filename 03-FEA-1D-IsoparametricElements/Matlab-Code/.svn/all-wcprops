@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/4013/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code
+END
+MainFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sp16-me471/!svn/ver/3719/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/MainFile.m
+END
+UMAT.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/3717/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/UMAT.m
+END
+Solve.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/3504/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/Solve.m
+END
+input.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sp16-me471/!svn/ver/2636/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/input.dat
+END
+ReadInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sp16-me471/!svn/ver/3717/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/ReadInput.m
+END
+Assemble.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sp16-me471/!svn/ver/3592/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/Assemble.m
+END
+Gauss_Quad.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sp16-me471/!svn/ver/3507/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/Gauss_Quad.m
+END
+input1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sp16-me471/!svn/ver/3717/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/input1.dat
+END
+PrintOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/2636/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/PrintOutput.m
+END
+Shape_Funct.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/3507/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/Shape_Funct.m
+END
+Initialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sp16-me471/!svn/ver/3009/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/Initialize.m
+END
+DLOAD.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/3717/clin92/03-FEA-1D-IsoparametricElements/Matlab-Code/DLOAD.m
+END

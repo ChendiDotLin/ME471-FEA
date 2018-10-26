@@ -1,0 +1,40 @@
+
+clc; clear all;
+
+%% ME 471 / AE 420 / 
+% Programming Assignment #2: 1D elastostatic FE code
+% includes: 
+% - isoparametric linear and quadratic elements
+% - numerical integration using Ng = 1,2,3,4 gauss points
+% - DLOAD function for user-defined body load b(x)
+% - UMAT function for user-defined elasticity modulus E(x)
+
+
+% Variables definition
+
+% nnode_ele, the (integer) number of nodes per element
+% node_dof, the (integer) number of degrees of freedom per node
+% edof, the (integer) number of degrees of freedom per element
+
+
+
+filename = 'input3.dat'; 
+
+%read
+[COORDS,N_NODE,N_ELEM,N_LOAD,N_PRE_DISP,NG,SHAPE_ORDER,...
+    NNODE_ELE,DOF_NODE,EDOF,...
+    ELEM_NODE,ELEM_STIFF,...
+    ELEM_LOAD,FORCE_NODE,FORCE_VAL,DISP_NODE,DISP_VAL] = ReadInput(filename);
+
+%initialize
+[EQ_NUM,N_DOF] = Initialize(N_NODE,N_PRE_DISP,DISP_NODE);
+
+%assemble
+[KPP,KPF,KFF,KFP,PP,PF,UP] = Assemble(COORDS,N_ELEM,N_LOAD,N_PRE_DISP,NG,SHAPE_ORDER,ELEM_NODE,ELEM_STIFF,ELEM_LOAD,FORCE_NODE,FORCE_VAL,DISP_NODE,DISP_VAL,EQ_NUM,N_DOF,NNODE_ELE);
+PP
+PF
+%SOLVE
+[UUR,PUR,UF,PP] = Solve(N_NODE,KPP,KPF,KFF,KFP,PP,PF,UP,EQ_NUM);
+
+%PRINT
+PrintOutput(EQ_NUM,KPP,KPF,KFP,KFF,UF,PP,UUR,PUR)

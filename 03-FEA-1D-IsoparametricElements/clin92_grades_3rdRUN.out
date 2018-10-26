@@ -1,0 +1,66 @@
+PA3 1D rod isoparametric elem, 3rd grading run at 00:01am Feb 26
+
+linear element Matlab results
+EQ_NUM (1pt): Passed  
+KPP Matrix (1pt): Passed  
+KPF Matrix (1pt): Passed  
+KFF Matrix (1pt): failed  
+KFP Matrix (1pt): Passed  
+UF Vector (1pt): failed  
+PP Vector (1pt): failed  
+PUR Vector (1pt): failed  
+UUR Vector (2pts): failed  
+~~~~~~~~~~~~~
+Total Points = 4
+
+
+
+quadratic element Matlab results
+EQ_NUM (1pt): Passed  
+KPP Matrix (1pt): failed  
+KPF Matrix (1pt): failed  
+KFF Matrix (1pt): failed  
+KFP Matrix (1pt): failed  
+UF Vector (1pt): failed  
+PP Vector (1pt): failed  
+PUR Vector (1pt): failed  
+UUR Vector (2pts): failed  
+~~~~~~~~~~~~~
+Total Points = 1
+
+
+
+Average Points for Matlab code = 2.5
+
+
+
+linear element C results
+EQ_NUM (1pt): failed  
+KPP Matrix (1pt): failed  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+UF Vector (1pt): Missing  
+PP Vector (1pt): Missing  
+PUR Vector (1pt): Missing  
+UUR Vector (2pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+
+quadratic element C results
+EQ_NUM (1pt): failed  
+KPP Matrix (1pt): failed  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+UF Vector (1pt): Missing  
+PP Vector (1pt): Missing  
+PUR Vector (1pt): Missing  
+UUR Vector (2pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+
+
+
+Average Points for C code = 0.0
+

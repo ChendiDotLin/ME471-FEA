@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp16-me471/!svn/ver/5695/clin92/04-FEA-Truss/Matlab-Code/Example4
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/5695/clin92/04-FEA-Truss/Matlab-Code/Example4/PUR_Vector.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/KFF_Matrix.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/UF_Vector.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/5695/clin92/04-FEA-Truss/Matlab-Code/Example4/UUR_Vector.dat
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/KPP_Matrix.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/PP_Vector.dat
+END
+Strain_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/Strain_Vector.dat
+END
+input3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/input3.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/KFP_Matrix.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/KPF_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/EQNUM.dat
+END
+Stress_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/4387/clin92/04-FEA-Truss/Matlab-Code/Example4/Stress_Vector.dat
+END

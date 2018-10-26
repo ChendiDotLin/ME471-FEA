@@ -1,0 +1,56 @@
+PA2 1D rod, 1st grading run at 00:40am Feb 17
+
+3 hours Matlab results
+EQ_NUM (1pt): Missing  
+KPP Matrix (1pt): Missing  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+UF Vector (1pt): Missing  
+PP Vector (1pt): Missing  
+PUR Vector (1pt): Missing  
+UUR Vector (2pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+
+3 hours C results
+EQ_NUM (1pt): failed  
+KPP Matrix (1pt): failed  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+UF Vector (1pt): Missing  
+PP Vector (1pt): Missing  
+PUR Vector (1pt): Missing  
+UUR Vector (2pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+
+
+
+4 hours Matlab results
+EQ_NUM (1pt): Missing  
+KPP Matrix (1pt): Missing  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+UF Vector (1pt): Missing  
+PP Vector (1pt): Missing  
+PUR Vector (1pt): Missing  
+UUR Vector (2pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+
+4 hours C results
+EQ_NUM (1pt): failed  
+KPP Matrix (1pt): failed  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+UF Vector (1pt): Missing  
+PP Vector (1pt): Missing  
+PUR Vector (1pt): Missing  
+UUR Vector (2pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+

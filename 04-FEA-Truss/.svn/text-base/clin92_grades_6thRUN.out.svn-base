@@ -1,0 +1,19 @@
+PA4 Truss Project, 6th grading run at 12:01pm March 21
+
+Matlab results
+KPP Matrix (1pt): Passed  
+KPF Matrix (1pt): Passed  
+KFF Matrix (1pt): Passed  
+KFP Matrix (1pt): Passed  
+PUR Vector (2pt): Passed  
+UUR Vector (2pts): Passed  
+Stress Vector (1pts): Passed  
+Strain Vector (1pts): Passed  
+~~~~~~~~~~~~~
+Total Points = 10
+
+C results
+Executable file MainFile is missing, compiling error.
+~~~~~~~~~~~~~~~~~
+Total Points = 0
+

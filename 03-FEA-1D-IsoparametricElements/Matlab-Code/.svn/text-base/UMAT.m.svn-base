@@ -1,0 +1,9 @@
+function[E] = UMAT(x)
+if (x<= 3)
+    E = x*20;
+else
+    E = 10*x+20;
+end
+
+
+

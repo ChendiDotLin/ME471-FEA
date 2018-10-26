@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code
+END
+inputExample10_4_QUAD.dat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/inputExample10_4_QUAD.dat
+END
+LShapeMesh.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/LShapeMesh.dat
+END
+MainFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/MainFile.cpp
+END
+Example4-4-Incropera.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example4-4-Incropera.dat
+END
+Example4-4-Incropera-finer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Example4-4-Incropera-finer.dat
+END
+EvaluateFieldGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/EvaluateFieldGradient.cpp
+END
+MainFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/MainFile.h
+END
+inputhw7.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/inputhw7.dat
+END
+ReadInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/ReadInput.cpp
+END
+ChimneyNew.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/ChimneyNew.dat
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/Makefile
+END
+input_Incropera_4_3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/input_Incropera_4_3.dat
+END
+GetElementHeatFluxVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/GetElementHeatFluxVector.cpp
+END
+PrintOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/C-Code/PrintOutput.cpp
+END

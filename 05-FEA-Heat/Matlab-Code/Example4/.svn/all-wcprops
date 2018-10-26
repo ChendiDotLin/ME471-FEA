@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/PUR_Vector.dat
+END
+FluxMagnitudeAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/FluxMagnitudeAtNodes.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/KFF_Matrix.dat
+END
+FluxAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/FluxAtCentroid.dat
+END
+FluxAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/FluxAtNodes.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/UF_Vector.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/UUR_Vector.dat
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/KPP_Matrix.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/PP_Vector.dat
+END
+FluxAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/FluxAtIntegrationPoints.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/KFP_Matrix.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/KPF_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/EQNUM.dat
+END
+ChimneyNew.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sp16-me471/!svn/ver/7283/clin92/05-FEA-Heat/Matlab-Code/Example4/ChimneyNew.dat
+END

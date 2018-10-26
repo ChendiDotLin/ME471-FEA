@@ -1,0 +1,28 @@
+Spring Project, 2nd grading run at 00:01am Feb 04
+
+Matlab results
+EQ_NUM (1pt): Passed  
+KPP Matrix (1pt): Passed  
+KPF Matrix (1pt): Passed  
+KFF Matrix (1pt): Passed  
+KFP Matrix (1pt): Passed  
+UF Vector (1pt): Passed  
+PP Vector (1pt): Passed  
+PUR Vector (1pt): Passed  
+UUR Vector (2pts): Passed  
+~~~~~~~~~~~~~
+Total Points = 10
+
+C results
+EQ_NUM (1pt): failed  
+KPP Matrix (1pt): failed  
+KPF Matrix (1pt): Missing  
+KFF Matrix (1pt): Missing  
+KFP Matrix (1pt): Missing  
+UF Vector (1pt): Missing  
+PP Vector (1pt): Missing  
+PUR Vector (1pt): Missing  
+UUR Vector (1pt): Missing  
+~~~~~~~~~~~~~
+Total Points = 0
+
